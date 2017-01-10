@@ -1,6 +1,8 @@
+This extension hides the system clock in the top center of the panel of Kali Linux
+
 Working in gnome 3.20.3(kali 2, 2016.2)
 
-# How to hide the clock
+# How to hide the clock 
 
 1. Create the Hide_Clock@jechoi directory and copy metadata.json, extension.js in it
 
