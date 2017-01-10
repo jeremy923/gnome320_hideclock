@@ -3,11 +3,10 @@ Working in gnome 3.20.3(kali 2, 2016.2)
 # How to hide the clock
 
 1. Create the Hide_Clock@jechoi directory and copy metadata.json, extension.js in it
-```
+
   # mkdir ~/.local/share/gnome-shell/extensions
   # cd ~/.local/share/gnome-shell/extensions
   # mkdir Hide_Clock@jechoi
   # cd Hide_Clock@jechoi
-```
 
 2. Run Tweak Tool and enable the extension in the Extensions tab
